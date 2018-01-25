@@ -1,5 +1,5 @@
 # GoogleDriveAPI
-Sample code for Google Map API<br>
+Sample code for Google Drive API<br>
 Reference from https://developers.google.com/api-client-library/java/apis/drive/v3<br>
 <br>
 Entry Point:
